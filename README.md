@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="harpal (600 x 350 px) (200 x 200 px)(7)" src="https://github.com/user-attachments/assets/a71c1fc4-87c1-4e5e-9666-5acb3b0bbb4d" />
+<img width="512" height="512" alt="logo" src="https://github.com/user-attachments/assets/a71c1fc4-87c1-4e5e-9666-5acb3b0bbb4d" />
 <img width="1280" height="720" alt="JOB2DAY_BANNER" src="https://github.com/user-attachments/assets/8e6ce13d-3997-424a-830a-41b431c8432d" />
 <img width="1280" height="720" alt="DAY2JOB_Banner2" src="https://github.com/user-attachments/assets/d885ab55-34ed-4a38-abf5-f824c0e0eb3b" />
 <img width="1080" height="1920" alt="ScreenShot (5)" src="https://github.com/user-attachments/assets/298de59a-4980-475f-9b89-bb3bfd4394b7" />
