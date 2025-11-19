@@ -1,16 +1,8 @@
-# JOB2DAY
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="512" height="512" alt="harpal (600 x 350 px) (200 x 200 px)(7)" src="https://github.com/user-attachments/assets/a71c1fc4-87c1-4e5e-9666-5acb3b0bbb4d" />
+<img width="1280" height="720" alt="JOB2DAY_BANNER" src="https://github.com/user-attachments/assets/8e6ce13d-3997-424a-830a-41b431c8432d" />
+<img width="1280" height="720" alt="DAY2JOB_Banner2" src="https://github.com/user-attachments/assets/d885ab55-34ed-4a38-abf5-f824c0e0eb3b" />
+<img width="1080" height="1920" alt="ScreenShot (5)" src="https://github.com/user-attachments/assets/298de59a-4980-475f-9b89-bb3bfd4394b7" />
+<img width="1080" height="1920" alt="ScreenShot (4)" src="https://github.com/user-attachments/assets/c04af706-ef23-4208-a47b-82433a23d5e5" />
+<img width="1080" height="1920" alt="ScreenShot (3)" src="https://github.com/user-attachments/assets/f2247f2a-ee5c-4b2b-92ca-c9d2b118d03b" />
+<img width="1080" height="1920" alt="ScreenShot (2)" src="https://github.com/user-attachments/assets/08b7789e-76b7-48e2-9a12-4451a73e7d87" />
+<img width="1080" height="1920" alt="ScreenShot (1)" src="https://github.com/user-attachments/assets/1df3a5c6-a8d5-4471-a42d-d12b0e2a0e12" />
